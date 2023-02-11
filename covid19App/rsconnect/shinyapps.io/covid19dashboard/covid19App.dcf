@@ -1,0 +1,12 @@
+name: covid19App
+title: covid19App
+username:
+account: covid19dashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2276915
+bundleId: 3185709
+url: https://covid19dashboard.shinyapps.io/covid19App/
+when: 1590366547.29755
+asMultiple: FALSE
+asStatic: FALSE
